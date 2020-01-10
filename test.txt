@@ -1,0 +1,7 @@
+void func1(){
+nslog("1");
+}
+
+void func2(){
+nslog("2");
+}
