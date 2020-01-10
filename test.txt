@@ -5,3 +5,7 @@ nslog("1");
 void func2(){
 nslog("2");
 }
+
+void func3(){
+nslog("3");
+}
