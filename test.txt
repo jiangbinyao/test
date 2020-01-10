@@ -1,5 +1,6 @@
 void func1(){
 nslog("1");
+return;
 }
 
 void func2(){
